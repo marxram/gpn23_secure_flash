@@ -29,7 +29,7 @@ Topics covered:
 - Arduino/ESP32 secure data logging examples
 - Raspberry Pi secure boot implementations  
 
-⭐ **Star this repository** to get notified when new content is available!
+⭐ **Star/watch this repository** to get notified when new content is available!
 
 ---
 
